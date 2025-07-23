@@ -84,12 +84,12 @@ arsenal = {
 
 | **ATTACK VECTOR** | **WEAPON SYSTEM** | **MASTERY** |
 |-------------------|-------------------|-------------|
-| 🔍 **SOC Operations** | `Splunk` `ELK` `SIEM` `Threat Hunting` | █████████▓ **95%** |
-| ⚔️ **C++ Exploitation** | `Memory Corruption` `ROP Chains` `Shellcode` | █████████▓ **93%** |
-| 🐍 **Python Arsenal** | `Scapy` `Requests` `SQLAlchemy` `Custom Tools` | █████████░ **90%** |
-| 🖥️ **OS Internals** | `Linux Kernel` `Windows API` `Process Injection` | ████████▓░ **87%** |
-| 📡 **Embedded Hacking** | `JTAG` `Firmware Analysis` `Hardware Debugging` | ████████░░ **82%** |
-| 🌐 **Backend Warfare** | `API Security` `Database Exploitation` `Auth Bypass` | ████████▓░ **85%** |
+| 🔍 **SOC Operations** | `Splunk` `ELK` `SIEM` `Threat Hunting` | █████████▓ **75%** |
+| ⚔️ **C++ Exploitation** | `Memory Corruption` `ROP Chains` `Shellcode` | █████████▓ **33%** |
+| 🐍 **Python Arsenal** | `Scapy` `Requests` `SQLAlchemy` `Custom Tools` | █████████░ **20%** |
+| 🖥️ **OS Internals** | `Linux Kernel` `Windows API` `Process Injection` | ████████▓░ **47%** |
+| 📡 **Embedded Hacking** | `JTAG` `Firmware Analysis` `Hardware Debugging` | ████████░░ **12%** |
+| 🌐 **Backend Warfare** | `API Security` `Database Exploitation` `Auth Bypass` | ████████▓░ **65%** |
 
 ---
 
